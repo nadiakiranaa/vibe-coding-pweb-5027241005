@@ -1,0 +1,16 @@
+# --- Dependencies (Wajib) ---
+node_modules/
+
+# --- Build React (Wajib) ---
+build/
+dist/
+
+# --- Environment Variables (Wajib) ---
+.env
+.env.local
+
+# --- Logs & System ---
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
