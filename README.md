@@ -45,7 +45,7 @@ Di lingkungan kampus dan akademis, pengelolaan arsip skripsi atau tugas akhir se
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/USERNAME_GITHUB_KAMU/NAMA_REPO_KAMU.git](https://github.com/USERNAME_GITHUB_KAMU/NAMA_REPO_KAMU.git)
+git clone (https://github.com/nadiakiranaa/vibe-coding-pweb-5027241005.git)
 cd thesis-archive-app
 ```
 
